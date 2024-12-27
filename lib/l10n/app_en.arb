@@ -1,0 +1,1253 @@
+{
+  "@@locale": "en",
+  "specialLine": "Special Line",
+  "@specialLine": {
+    "description": "The name of the brand or company.",
+    "type": "text"
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Label for resetting the user's password.",
+    "type": "text"
+  },
+  "enterEmailToResetOne": "Enter your email to reset",
+  "@enterEmailToResetOne": {
+    "description": "Prompt to enter email to reset password.",
+    "type": "text"
+  },
+  "enterEmailToResetTwo": "your password",
+  "@enterEmailToResetTwo": {
+    "description": "Continuation of the prompt to enter email to reset password.",
+    "type": "text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Label for email.",
+    "type": "text"
+  },
+  "phoneNum": "Phone Number",
+  "@phoneNum": {
+    "description": "Label for phone number.",
+    "type": "text"
+  },
+  "sendCode": "Send Code",
+  "@sendCode": {
+    "description": "Button to send the verification code.",
+    "type": "text"
+  },
+  "backToSignIn": "Back to Sign In",
+  "@backToSignIn": {
+    "description": "Link to go back to the sign-in page.",
+    "type": "text"
+  },
+  "otpCodeSended": "The authentication code has been sent to",
+  "@otpCodeSended": {
+    "description": "Message indicating that the authentication code has been sent to the email or phone.",
+    "type": "text"
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "Label for the new password.",
+    "type": "text"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Label for the password.",
+    "type": "text"
+  },
+  "confirmNewPassword": "Confirm Password",
+  "@confirmNewPassword": {
+    "description": "Label to confirm the new password.",
+    "type": "text"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Button to confirm the entries.",
+    "type": "text"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Button to skip a step or process.",
+    "type": "text"
+  },
+  "noDataLikeThis": "No Data Found",
+  "@noDataLikeThis": {
+    "description": "Message shown when no matching data is found.",
+    "type": "text"
+  },
+  "userAgrement": "I agree to all terms, privacy policy, and fees",
+  "@userAgrement": {
+    "description": "Statement to show agreement with terms and policies.",
+    "type": "text"
+  },
+  "signUp": "Create Your Account",
+  "@signUp": {
+    "description": "Button or link to create a new account.",
+    "type": "text"
+  },
+  "orByUsing": "Or by using",
+  "@orByUsing": {
+    "description": "Separator between different sign-up methods.",
+    "type": "text"
+  },
+  "youHaveAccount": "Already have an account? Sign In",
+  "@youHaveAccount": {
+    "description": "Phrase asking the user if they already have an account and guiding them to sign in.",
+    "type": "text"
+  },
+  "welcomeToSelectShop": "Welcome to Select Shop",
+  "@welcomeToSelectShop": {
+    "description": "Welcome message to Select Shop.",
+    "type": "text"
+  },
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Link to guide the user to the password recovery page.",
+    "type": "text"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Button or link to sign in.",
+    "type": "text"
+  },
+  "youDontHaveAccount": "Don't have an account? Sign Up",
+  "@youDontHaveAccount": {
+    "description": "Phrase asking the user if they don't have an account and guiding them to create one.",
+    "type": "text"
+  },
+  "userName": "Name",
+  "@userName": {
+    "description": "Label for the username.",
+    "type": "text"
+  },
+  "userEmail": "User Email",
+  "@userEmail": {
+    "description": "The user's email, which can be changed in account settings.",
+    "type": "text"
+  },
+  "homePage": "Home",
+  "@homePage": {
+    "description": "Label for the home page.",
+    "type": "text"
+  },
+  "products": "Products",
+  "@products": {
+    "description": "Label for the products list.",
+    "type": "text"
+  },
+  "tradeMark": "Brands",
+  "@tradeMark": {
+    "description": "Label for the brands list.",
+    "type": "text"
+  },
+  "specialproducts": "Featured Products",
+  "@specialproducts": {
+    "description": "Label for featured products.",
+    "type": "text"
+  },
+  "favourts": "Favorites",
+  "@favourts": {
+    "description": "Label for the favorites list.",
+    "type": "text"
+  },
+  "mycart": "My Cart",
+  "@mycart": {
+    "description": "Label for the user's shopping cart.",
+    "type": "text"
+  },
+  "orders": "Orders",
+  "@orders": {
+    "description": "Label for the orders list.",
+    "type": "text"
+  },
+  "all_orders": "Total Orders",
+  "@all_orders": {
+    "description": "",
+    "type": "text"
+  },
+  "personalPage": "Personal Page",
+  "@personalPage": {
+    "description": "Label for the user's personal page.",
+    "type": "text"
+  },
+  "show_money": "Show Accounts",
+  "@show_money": {
+    "description": "Show accounts.",
+    "type": "text"
+  },
+  "bank_accounts": "Bank Accounts",
+  "@bank_accounts": {
+    "description": "To view the user's bank accounts.",
+    "type": "text"
+  },
+  "the_bank": "the bank",
+  "@the_bank": {
+    "description": "To view the bank name.",
+    "type": "text"
+  },
+  "suppourt": "Support",
+  "@suppourt": {
+    "description": "Label for the support section.",
+    "type": "text"
+  },
+  "contactUs": "Contact Us",
+  "@contactUs": {
+    "description": "Link or button to contact customer support.",
+    "type": "text"
+  },
+  "signInSuccess": "Successfully Signed In",
+  "@signInSuccess": {
+    "description": "Message confirming successful sign-in.",
+    "type": "text"
+  },
+  "signInWelcome": "Welcome Back",
+  "@signInWelcome": {
+    "description": "Message welcoming the user back after signing in.",
+    "type": "text"
+  },
+  "signUpSuccess": "Account Successfully Created",
+  "@signUpSuccess": {
+    "description": "Message confirming successful account creation.",
+    "type": "text"
+  },
+  "signOut": "Sign Out",
+  "@signOut": {
+    "description": "Button or link to log out from the account.",
+    "type": "text"
+  },
+  "show_all": "Show All",
+  "@show_all": {
+    "description": "Button or link to show all items.",
+    "type": "text"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "Search button or field.",
+    "type": "text"
+  },
+  "theNew": "New",
+  "@theNew": {
+    "description": "Label for new products.",
+    "type": "text"
+  },
+  "thebestSeller": "Best Seller",
+  "@thebestSeller": {
+    "description": "Label for the best-selling products.",
+    "type": "text"
+  },
+  "theLakta": "Spotlight",
+  "@theLakta": {
+    "description": "Label for featured products or special offers.",
+    "type": "text"
+  },
+  "theDiscaount": "Discount",
+  "@theDiscaount": {
+    "description": "Label for discounts on products.",
+    "type": "text"
+  },
+  "most_wanted": "Most Wanted",
+  "@most_wanted": {
+    "description": "Label for the most sought-after products.",
+    "type": "text"
+  },
+  "limitedOffers": "Limited Offers",
+  "@limitedOffers": {
+    "description": "Label for limited-time offers.",
+    "type": "text"
+  },
+  "lowToHighPrice": "Price: Low to High",
+  "@lowToHighPrice": {
+    "description": "Sort products by price from lowest to highest.",
+    "type": "text"
+  },
+  "allCategoris": "All Categories",
+  "@allCategoris": {
+    "description": "Label to show all categories.",
+    "type": "text"
+  },
+  "category": "Category",
+  "@category": {
+    "description": "Label for category.",
+    "type": "text"
+  },
+  "categorys": "Categories",
+  "@categorys": {
+    "description": "Label for categories.",
+    "type": "text"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Label for description.",
+    "type": "text"
+  },
+  "theColor": "Color",
+  "@theColor": {
+    "description": "Label for color.",
+    "type": "text"
+  },
+  "quantity": "Quantity",
+  "@quantity": {
+    "description": "Label for quantity.",
+    "type": "text"
+  },
+  "showAll": "Show All",
+  "@showAll": {
+    "description": "Button or link to show all items.",
+    "type": "text"
+  },
+  "searchYourProduct": "Search for your product",
+  "@searchYourProduct": {
+    "description": "Prompt to search for a specific product.",
+    "type": "text"
+  },
+  "aed": "AED",
+  "@aed": {
+    "description": "Currency symbol for the Dirham (AED).",
+    "type": "text"
+  },
+  "shopNow": "Shop Now",
+  "@shopNow": {
+    "description": "Button to shop now.",
+    "type": "text"
+  },
+  "shipmentAllUAE": "Shipping Across UAE",
+  "@shipmentAllUAE": {
+    "description": "Label indicating that shipping is available across the UAE.",
+    "type": "text"
+  },
+  "fastShipment": "Fast Shipping",
+  "@fastShipment": {
+    "description": "Label for fast shipping.",
+    "type": "text"
+  },
+  "paymentOnRecive": "Cash on Delivery",
+  "@paymentOnRecive": {
+    "description": "Label for cash on delivery payment method.",
+    "type": "text"
+  },
+  "freeReturn": "Free Returns",
+  "@freeReturn": {
+    "description": "Label for free returns.",
+    "type": "text"
+  },
+  "earnFreePoints": "Earn Points and Discounts",
+  "@earnFreePoints": {
+    "description": "Phrase encouraging users to collect points and discounts.",
+    "type": "text"
+  },
+  "brand": "Brand",
+  "@brand": {
+    "description": "Label for the brand.",
+    "type": "text"
+  },
+  "brandDetails": "Brand Details",
+  "@brandDetails": {
+    "description": "Label displaying brand details.",
+    "type": "text"
+  },
+  "checkOut": "Checkout",
+  "@checkOut": {
+    "description": "Button for checkout or payment.",
+    "type": "text"
+  },
+  "comments": "Comments",
+  "@comments": {
+    "description": "Label for comments section.",
+    "type": "text"
+  },
+  "deliverTo": "Deliver To",
+  "@deliverTo": {
+    "description": "Label to specify delivery location.",
+    "type": "text"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "Label for location.",
+    "type": "text"
+  },
+  "cartDetails": "Cart Details",
+  "@cartDetails": {
+    "description": "Label to view cart details.",
+    "type": "text"
+  },
+  "paymentMethod": "Payment Method",
+  "@paymentMethod": {
+    "description": "Label for the payment method.",
+    "type": "text"
+  },
+  "doYouHaveCopons": "Do you have discount coupons?",
+  "@doYouHaveCopons": {
+    "description": "Question about whether the user has discount coupons.",
+    "type": "text"
+  },
+  "enterCoponCode": "Enter Coupon Code",
+  "@enterCoponCode": {
+    "description": "Field to enter coupon code.",
+    "type": "text"
+  },
+  "price": "Price",
+  "@price": {
+    "description": "Label for price.",
+    "type": "text"
+  },
+  "taxes": "Taxes",
+  "@taxes": {
+    "description": "Label for taxes.",
+    "type": "text"
+  },
+  "deliveryPrice": "Delivery Fee",
+  "@deliveryPrice": {
+    "description": "Label for delivery fee.",
+    "type": "text"
+  },
+  "totalPrice": "Total Price",
+  "@totalPrice": {
+    "description": "Label for the total price.",
+    "type": "text"
+  },
+  "payWithCart": "Pay with Card",
+  "@payWithCart": {
+    "description": "Button for paying with card.",
+    "type": "text"
+  },
+  "error": "Error",
+  "@error": {
+    "description": "Label to display an error message.",
+    "type": "text"
+  },
+  "checkNetwork": "Please check your internet connection",
+  "@checkNetwork": {
+    "description": "Message prompting the user to check their internet connection.",
+    "type": "text"
+  },
+  "editUser": "Edit Profile",
+  "@editUser": {
+    "description": "Button to edit profile information.",
+    "type": "text"
+  },
+  "addLocation": "Add Locations",
+  "@addLocation": {
+    "description": "Label to add locations.",
+    "type": "text"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Button to change the language.",
+    "type": "text"
+  },
+  "notificationSettings": "Notification Settings",
+  "@notificationSettings": {
+    "description": "Label for notification settings.",
+    "type": "text"
+  },
+  "helpCenter": "Help Center",
+  "@helpCenter": {
+    "description": "Label for the help center.",
+    "type": "text"
+  },
+  "accountSettings": "Account Settings",
+  "@accountSettings": {
+    "description": "Label for account settings.",
+    "type": "text"
+  },
+  "addNewLocation": "Add New Location",
+  "@addNewLocation": {
+    "description": "Button to add a new location.",
+    "type": "text"
+  },
+  "theArea": "Area",
+  "@theArea": {
+    "description": "Label for area.",
+    "type": "text"
+  },
+  "enterTheArea": "Enter Area",
+  "@enterTheArea": {
+    "description": "Field to enter area name.",
+    "type": "text"
+  },
+  "choseEmairate": "Choose Emirate",
+  "@choseEmairate": {
+    "description": "Prompt to select the emirate.",
+    "type": "text"
+  },
+  "building": "Building Number",
+  "@building": {
+    "description": "Label for building number.",
+    "type": "text"
+  },
+  "enterBuilding": "Enter Building Info",
+  "@enterBuilding": {
+    "description": "Field to enter building information.",
+    "type": "text"
+  },
+  "theStreet": "Street",
+  "@theStreet": {
+    "description": "Label for street.",
+    "type": "text"
+  },
+  "enterTheStreet": "Enter Street",
+  "@enterTheStreet": {
+    "description": "Field to enter street name.",
+    "type": "text"
+  },
+  "postCode": "Postal Code",
+  "@postCode": {
+    "description": "Label for postal code.",
+    "type": "text"
+  },
+  "enterPostCode": "Enter Postal Code",
+  "@enterPostCode": {
+    "description": "Field to enter postal code.",
+    "type": "text"
+  },
+  "apprtment": "Apartment",
+  "@apprtment": {
+    "description": "Label for apartment number.",
+    "type": "text"
+  },
+  "enterApprtment": "Enter Apartment Number",
+  "@enterApprtment": {
+    "description": "Field to enter apartment number.",
+    "type": "text"
+  },
+  "saveLocationAs": "Save location as",
+  "@saveLocationAs": {
+    "description": "Label for saving the location as.",
+    "type": "text"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Category for saving the location as home.",
+    "type": "text"
+  },
+  "work": "Work",
+  "@work": {
+    "description": "Category for saving the location as work.",
+    "type": "text"
+  },
+  "other": "Other",
+  "@other": {
+    "description": "Category for saving the location as other.",
+    "type": "text"
+  },
+  "saveLocation": "Save location",
+  "@saveLocation": {
+    "description": "Button to save the location.",
+    "type": "text"
+  },
+  "trackOrder": "Track Order",
+  "@trackOrder": {
+    "description": "Button to track the status of the order.",
+    "type": "text"
+  },
+  "orderStage": "Order Stage: ",
+  "@orderStage": {
+    "description": "Label to display the current stage of the order.",
+    "type": "text"
+  },
+  "orderPlaced": "Order Placed",
+  "@orderPlaced": {
+    "description": "Message indicating the order has been placed.",
+    "type": "text"
+  },
+  "orderPlacedMessage": "Your order has been placed",
+  "@orderPlacedMessage": {
+    "description": "Confirmation message for the order placement.",
+    "type": "text"
+  },
+  "processing": "Processing",
+  "@processing": {
+    "description": "Label for the current stage of the order.",
+    "type": "text"
+  },
+  "processingMessage": "Your order is awaiting confirmation",
+  "@processingMessage": {
+    "description": "Message indicating the order is in the processing stage.",
+    "type": "text"
+  },
+  "orderConfirmed": "Order Confirmed",
+  "@orderConfirmed": {
+    "description": "Message indicating the order has been confirmed.",
+    "type": "text"
+  },
+  "orderConfirmedMessage": "Your order has been confirmed",
+  "@orderConfirmedMessage": {
+    "description": "Confirmation message for the order confirmation.",
+    "type": "text"
+  },
+  "shipped": "Shipped",
+  "@shipped": {
+    "description": "Message indicating the order has been shipped.",
+    "type": "text"
+  },
+  "shippedMessage": "Your order has been shipped",
+  "@shippedMessage": {
+    "description": "Confirmation message for the shipped order.",
+    "type": "text"
+  },
+  "onTheWay": "On the Way",
+  "@onTheWay": {
+    "description": "Message indicating the order is on its way.",
+    "type": "text"
+  },
+  "onTheWayMessage": "The delivery representative is on their way to deliver your order",
+  "@onTheWayMessage": {
+    "description": "Message indicating that the delivery representative is en route.",
+    "type": "text"
+  },
+  "delivered": "Delivered",
+  "@delivered": {
+    "description": "Message indicating the order has been delivered.",
+    "type": "text"
+  },
+  "created_at": "Created at",
+  "@created_at": {
+    "description": "Label displaying the creation date and time of the item.",
+    "type": "text"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Label for the name.",
+    "type": "text"
+  },
+  "stats": "Stats",
+  "@stats": {
+    "description": "Label for displaying statistics.",
+    "type": "text"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Label for displaying the total.",
+    "type": "text"
+  },
+  "mobileNumber": "Mobile Number",
+  "@mobileNumber": {
+    "description": "Label for the mobile number.",
+    "type": "text"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Label for the full name.",
+    "type": "text"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Label for the address.",
+    "type": "text"
+  },
+  "profilePicture": "Profile Picture",
+  "@profilePicture": {
+    "description": "Label for the profile picture.",
+    "type": "text"
+  },
+  "changeProfilePicture": "Change Profile Picture",
+  "@changeProfilePicture": {
+    "description": "Button to change the profile picture.",
+    "type": "text"
+  },
+  "unKnownError": "Unknown Error",
+  "@unKnownError": {
+    "description": "General error message for an unknown issue.",
+    "type": "text"
+  },
+  "integrated_delivery_and_technology_services": "Integrated Delivery and Technology Services - We are committed to providing a premium and high-quality experience, with a team that is dedicated to integrity, professionalism, and respect for all customers, ensuring their happiness and exceeding their expectations.",
+  "@integrated_delivery_and_technology_services": {
+    "description": "Main phrase emphasizing the company's commitment to quality and customer satisfaction.",
+    "type": "text"
+  },
+  "team_receives_parcels_with_care": "Our team receives your parcels with care, at your preferred location and time.",
+  "@team_receives_parcels_with_care": {
+    "description": "Describes the attention to detail and customer preferences in parcel reception.",
+    "type": "text"
+  },
+  "parcel_delivery_within_24_hours": "We deliver your parcels within 24 hours of receiving them, ensuring communication with the customer and guaranteeing their satisfaction.",
+  "@parcel_delivery_within_24_hours": {
+    "description": "Highlights the fast delivery service and customer communication.",
+    "type": "text"
+  },
+  "total_orders": "Total Orders",
+  "@total_orders": {
+    "description": "Label for the total number of received orders.",
+    "type": "text"
+  },
+  "total_amounts": "Total Amounts",
+  "@total_amounts": {
+    "description": "Label for the total amounts related to the orders.",
+    "type": "text"
+  },
+  "track_orders": "Track Orders",
+  "@track_orders": {
+    "description": "Label for the button to track orders.",
+    "type": "text"
+  },
+  "total_stock": "Total Stock",
+  "@total_stock": {
+    "description": "Label for the total available stock.",
+    "type": "text"
+  },
+  "request_collection": "Request Collection",
+  "@request_collection": {
+    "description": "Label for the button to request goods collection.",
+    "type": "text"
+  },
+  "buy_services": "Buy Services",
+  "@buy_services": {
+    "description": "Label for the button to buy the services offered by the company.",
+    "type": "text"
+  },
+  "chat": "Chat",
+  "@chat": {
+    "description": "Label to start a chat or conversation.",
+    "type": "text"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Label to access the settings menu.",
+    "type": "text"
+  },
+  "delayed_orders": "Delayed Orders",
+  "@delayed_orders": {
+    "description": "Label for delayed orders.",
+    "type": "text"
+  },
+  "transferred_orders": "Transferred Orders",
+  "@transferred_orders": {
+    "description": "Label for transferred orders.",
+    "type": "text"
+  },
+  "returned_orders": "Returned Orders",
+  "@returned_orders": {
+    "description": "Label for returned orders.",
+    "type": "text"
+  },
+  "damaged_orders": "Damaged Orders",
+  "@damaged_orders": {
+    "description": "Label for damaged orders.",
+    "type": "text"
+  },
+  "search_shipments": "Search for your shipments...",
+  "@search_shipments": {
+    "description": "Placeholder text for searching shipments.",
+    "type": "text"
+  },
+  "reference_number": "Reference Number",
+  "@reference_number": {
+    "description": "Label for the shipment reference number.",
+    "type": "text"
+  },
+  "customer_number": "Customer Number",
+  "@customer_number": {
+    "description": "Label for the customer number.",
+    "type": "text"
+  },
+  "emirate": "Emirate",
+  "@emirate": {
+    "description": "Label for the emirate the customer is located in.",
+    "type": "text"
+  },
+  "amount": "Amount",
+  "@amount": {
+    "description": "Label for the amount associated with the shipment.",
+    "type": "text"
+  },
+  "shipment_status": "Shipment Status",
+  "@shipment_status": {
+    "description": "Label for the current status of the shipment.",
+    "type": "text"
+  },
+  "in_delivery": "In Delivery",
+  "@in_delivery": {
+    "description": "Label for shipments currently being delivered.",
+    "type": "text"
+  },
+  "filter_shipments": "Filter Shipments:",
+  "@filter_shipments": {
+    "description": "Label for filtering the shipments.",
+    "type": "text"
+  },
+  "by_date": "By Date:",
+  "@by_date": {
+    "description": "Label to filter shipments by date.",
+    "type": "text"
+  },
+  "from": "From:",
+  "@from": {
+    "description": "Label to specify the start date for filtering.",
+    "type": "text"
+  },
+  "to": "To:",
+  "@to": {
+    "description": "Label to specify the end date for filtering.",
+    "type": "text"
+  },
+  "date_added": "Date Added:",
+  "@date_added": {
+    "description": "Label for the date the shipment was added.",
+    "type": "text"
+  },
+  "delivery_date": "Delivery Date:",
+  "@delivery_date": {
+    "description": "Label for the delivery date of the shipment.",
+    "type": "text"
+  },
+  "company": "Company:",
+  "@company": {
+    "description": "Label for the company associated with the shipment.",
+    "type": "text"
+  },
+  "delivery_fees": "Delivery Fees:",
+  "@delivery_fees": {
+    "description": "Label for the fees associated with delivering the shipment.",
+    "type": "text"
+  },
+  "shipment_amount": "Shipment Amount:",
+  "@shipment_amount": {
+    "description": "Label for the total amount of the shipment.",
+    "type": "text"
+  },
+  "additional_fees": "Additional Fees:",
+  "@additional_fees": {
+    "description": "Label for any additional fees associated with the shipment.",
+    "type": "text"
+  },
+  "payment_method": "Payment Method:",
+  "@payment_method": {
+    "description": "Label for the payment method used for the shipment.",
+    "type": "text"
+  },
+  "transfer_to_merchant": "Transfer to Merchant",
+  "@transfer_to_merchant": {
+    "description": "Label for the button to transfer amounts to the merchant.",
+    "type": "text"
+  },
+  "bearing_delivery_fees": "Bearing Delivery Fees:",
+  "@bearing_delivery_fees": {
+    "description": "Label to determine who bears the delivery fees.",
+    "type": "text"
+  },
+  "shipment_contents": "Shipment Contents:",
+  "@shipment_contents": {
+    "description": "Label for the contents of the shipment.",
+    "type": "text"
+  },
+  "customer_details": "Customer Details",
+  "@customer_details": {
+    "description": "Label for the section containing customer details.",
+    "type": "text"
+  },
+  "customer_name": "Customer Name:",
+  "@customer_name": {
+    "description": "Label for the customer's name.",
+    "type": "text"
+  },
+  "note": "Note:",
+  "@note": {
+    "description": "Label for a note associated with the shipment.",
+    "type": "text"
+  },
+  "customer_address": "Customer Address:",
+  "@customer_address": {
+    "description": "Label for the customer's address.",
+    "type": "text"
+  },
+  "customer_city": "Customer City:",
+  "@customer_city": {
+    "description": "Label for the customer's city.",
+    "type": "text"
+  },
+  "customer_emirate": "Customer Emirate:",
+  "@customer_emirate": {
+    "description": "Label for the emirate where the customer is located.",
+    "type": "text"
+  },
+  "remaining_quantity": "Remaining Quantity:",
+  "@remaining_quantity": {
+    "description": "Label for the remaining quantity of items in stock.",
+    "type": "text"
+  },
+  "add_new_product": "Add New Product",
+  "@add_new_product": {
+    "description": "Label for the button to add a new product to the stock.",
+    "type": "text"
+  },
+  "product_sales_record": "Product Sales Record",
+  "@product_sales_record": {
+    "description": "Label to view the product sales record.",
+    "type": "text"
+  },
+  "automated_chat": "Automated Chat",
+  "@automated_chat": {
+    "description": "Label to start an automated chat.",
+    "type": "text"
+  },
+  "have_questions": "Do you have any questions?",
+  "@have_questions": {
+    "description": "Question to see if the user has any inquiries.",
+    "type": "text"
+  },
+  "search_among_suggested_questions": "Search among suggested questions...",
+  "@search_among_suggested_questions": {
+    "description": "Placeholder text to search within frequently asked questions.",
+    "type": "text"
+  },
+  "frequently_asked_questions": "Frequently Asked Questions:",
+  "@frequently_asked_questions": {
+    "description": "Label for the frequently asked questions section.",
+    "type": "text"
+  },
+  "view_all": "View All",
+  "@view_all": {
+    "description": "Label for the button to view all questions or items.",
+    "type": "text"
+  },
+  "how_long_does_delivery_take": "How long does delivery take in the store?",
+  "@how_long_does_delivery_take": {
+    "description": "Question about the delivery time for store goods.",
+    "type": "text"
+  },
+  "how_long_does_cooled_delivery_take": "How long does cooled delivery take?",
+  "@how_long_does_cooled_delivery_take": {
+    "description": "Question about the delivery time for cooled goods.",
+    "type": "text"
+  },
+  "topics": "Topics:",
+  "@topics": {
+    "description": "Label for different topics or categories.",
+    "type": "text"
+  },
+  "storage_mechanism": "Storage Mechanism",
+  "@storage_mechanism": {
+    "description": "Label for the topic related to storage mechanisms.",
+    "type": "text"
+  },
+  "packaging_and_safety": "Packaging and Safety",
+  "@packaging_and_safety": {
+    "description": "Label for the topic related to packaging and safety.",
+    "type": "text"
+  },
+  "shipping_and_delivery": "Shipping and Delivery",
+  "@shipping_and_delivery": {
+    "description": "Label for the topic related to shipping and delivery.",
+    "type": "text"
+  },
+  "returns_and_replacements": "Returns and Replacements",
+  "@returns_and_replacements": {
+    "description": "Label for the topic related to returns and replacements.",
+    "type": "text"
+  },
+  "start_chat": "Start Chat",
+  "@start_chat": {
+    "description": "Label for the button to start a chat session.",
+    "type": "text"
+  },
+  "welcome_to_special_line": "Welcome to Special Line Delivery Services",
+  "@welcome_to_special_line": {
+    "description": "Welcome message for users in the app.",
+    "type": "text"
+  },
+  "here_to_assist": "I am here to help you enjoy a unique delivery and service experience.",
+  "@here_to_assist": {
+    "description": "Message outlining the purpose of the support.",
+    "type": "text"
+  },
+  "daily_delivery_in_western_areas": "Is daily delivery available in the western areas?",
+  "@daily_delivery_in_western_areas": {
+    "description": "Question about the availability of daily delivery in western areas.",
+    "type": "text"
+  },
+  "delivery_price_in_ajman": "What is the delivery price in Ajman?",
+  "@delivery_price_in_ajman": {
+    "description": "Question about the pricing for delivery in Ajman.",
+    "type": "text"
+  },
+  "delivery_time_for_payment": "What is the delivery time for payment?",
+  "@delivery_time_for_payment": {
+    "description": "Question about the delivery time for payments.",
+    "type": "text"
+  },
+  "weekdays_delivery_availability": "Is delivery available every weekday?",
+  "@weekdays_delivery_availability": {
+    "description": "Question about delivery availability throughout the week.",
+    "type": "text"
+  },
+  "write_message": "Write a message...",
+  "@write_message": {
+    "description": "Placeholder text for writing a message in chat.",
+    "type": "text"
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Label for the notifications section.",
+    "type": "text"
+  },
+  "change_language": "Change Language",
+  "@change_language": {
+    "description": "Option to change the app language.",
+    "type": "text"
+  },
+  "dark_mode": "Dark Mode",
+  "@dark_mode": {
+    "description": "Option to toggle dark mode.",
+    "type": "text"
+  },
+  "privacy_policy": "Privacy Policy",
+  "@privacy_policy": {
+    "description": "Option to view the app's privacy policy.",
+    "type": "text"
+  },
+  "complaints_and_suggestions": "Complaints and Suggestions",
+  "@complaints_and_suggestions": {
+    "description": "Option to submit complaints and suggestions.",
+    "type": "text"
+  },
+  "share_app": "Share App",
+  "@share_app": {
+    "description": "Option to share the app with others.",
+    "type": "text"
+  },
+  "about_us": "About Us",
+  "@about_us": {
+    "description": "Option to view information about the company.",
+    "type": "text"
+  },
+  "contact_us": "Contact Us",
+  "@contact_us": {
+    "description": "Option to contact the company.",
+    "type": "text"
+  },
+  "sign_out": "Sign Out",
+  "@sign_out": {
+    "description": "Sign out of the app.",
+    "type": "text"
+  },
+  "are_you_sure": "Are you sure?",
+  "@are_you_sure": {
+    "description": "Just for confirmation.",
+    "type": "text"
+  },
+  "standard_storage_service": "Standard Storage Service",
+  "@standard_storage_service": {
+    "description": "Label for the standard storage service.",
+    "type": "text"
+  },
+  "cooled_storage_service": "Cooled Storage Service",
+  "@cooled_storage_service": {
+    "description": "Label for the cooled storage service.",
+    "type": "text"
+  },
+  "packaging_service": "Packaging Service",
+  "@packaging_service": {
+    "description": "Label for the packaging service.",
+    "type": "text"
+  },
+  "product_photography_service": "Product Photography Service",
+  "@product_photography_service": {
+    "description": "Label for the product photography service.",
+    "type": "text"
+  },
+  "purchase_services": "Purchase Services",
+  "@purchase_services": {
+    "description": "Label for the button to purchase the offered services.",
+    "type": "text"
+  },
+  "amounts_delivered_within_72_hours": "Amounts are delivered within 72 hours of the delivery date. \nDoes not include the last 48 hours payments.",
+  "@amounts_delivered_within_72_hours": {
+    "description": "Information about the time frame for delivering payments.",
+    "type": "text"
+  },
+  "payment_record": "Payment Record",
+  "@payment_record": {
+    "description": "Label to view payment records.",
+    "type": "text"
+  },
+  "payment_details": "Payment Details",
+  "@payment_details": {
+    "description": "Label to view payment details.",
+    "type": "text"
+  },
+  "amount_due_to_merchant": "Amount Due to Merchant:",
+  "@amount_due_to_merchant": {
+    "description": "Label indicating the amount due to the merchant.",
+    "type": "text"
+  },
+  "paid": "Paid",
+  "@paid": {
+    "description": "Label indicating that the amount has been paid.",
+    "type": "text"
+  },
+  "the_day": "The Day",
+  "@the_day": {
+    "description": "Text to indicate the date.",
+    "type": "text"
+  },
+  "new_year_message": "Happy New Year! Wishing you a year full of happiness, success, and prosperity. May your days be bright and your dreams come true.",
+  "@new_year_message": {
+    "description": "New Year greeting message in Arabic.",
+    "type": "text"
+  },
+  "personal_image": "Personal Image",
+  "@personal_image": {
+    "description": "Label for the personal image.",
+    "type": "text"
+  },
+  "full_arabic_name": "Full Name in Arabic",
+  "@full_arabic_name": {
+    "description": "Label for the full name in Arabic.",
+    "type": "text"
+  },
+  "full_english_name": "Full Name in English",
+  "@full_english_name": {
+    "description": "Label for the full name in English.",
+    "type": "text"
+  },
+  "nationality": "Nationality",
+  "@nationality": {
+    "description": "Label for nationality.",
+    "type": "text"
+  },
+  "birth_date": "Birth Date",
+  "@birth_date": {
+    "description": "Label for the birth date.",
+    "type": "text"
+  },
+  "gender": "gender",
+  "@gender": {
+    "description": "Label for gender or sex.",
+    "type": "text"
+  },
+  "login_informations": "Login Information",
+  "@login_informations": {
+    "description": "Label for login information.",
+    "type": "text"
+  },
+  "brand_profile": "Brand Profile",
+  "@brand_profile": {
+    "description": "Label for the brand profile.",
+    "type": "text"
+  },
+  "brand_logo": "Brand Logo",
+  "@brand_logo": {
+    "description": "Label for the brand logo.",
+    "type": "text"
+  },
+  "arabic_brand_name": "Brand Name in Arabic",
+  "@arabic_brand_name": {
+    "description": "Label for the brand name in Arabic.",
+    "type": "text"
+  },
+  "english_brand_name": "Brand Name in English",
+  "@english_brand_name": {
+    "description": "Label for the brand name in English.",
+    "type": "text"
+  },
+  "brand_description": "Brand Description",
+  "@brand_description": {
+    "description": "Label for the brand description.",
+    "type": "text"
+  },
+  "brand_location": "Brand Location",
+  "@brand_location": {
+    "description": "Label for the brand location.",
+    "type": "text"
+  },
+  "current_password": "Current Password",
+  "@current_password": {
+    "description": "Label for the current password.",
+    "type": "text"
+  },
+  "new_password": "New Password",
+  "@new_password": {
+    "description": "Label for the new password.",
+    "type": "text"
+  },
+  "retype_new_password": "Retype New Password",
+  "@retype_new_password": {
+    "description": "Label for retyping the new password.",
+    "type": "text"
+  },
+  "male": "Male",
+  "@male": {
+    "description": "Label for the male gender.",
+    "type": "text"
+  },
+  "female": "Female",
+  "@female": {
+    "description": "Label for the female gender.",
+    "type": "text"
+  },
+  "edit_profile_informations": "Edit Profile Information",
+  "@edit_profile_informations": {
+    "description": "Label to edit profile information.",
+    "type": "text"
+  },
+  "edit_brand_informations": "Edit Brand Information",
+  "@edit_brand_informations": {
+    "description": "Label to edit brand information.",
+    "type": "text"
+  },
+  "phone_number": "Phone Number",
+  "@phone_number": {
+    "description": "Label for the phone number.",
+    "type": "text"
+  },
+  "mobile_number": "Mobile Number",
+  "@mobile_number": {
+    "description": "Label for the mobile number.",
+    "type": "text"
+  },
+  "by_emirate": "By Emirate",
+  "@by_emirate": {
+    "description": "Label for filtering data by Emirate.",
+    "type": "text"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Button text for saving changes.",
+    "type": "text"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Button text for canceling an action.",
+    "type": "text"
+  },
+  "total_amount": "Total Amount",
+  "@total_amount": {
+    "description": "Label for displaying the total monetary amount.",
+    "type": "text"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Label for selecting or displaying a date.",
+    "type": "text"
+  },
+  "contact_accounting_department": "You can contact the accounting department.",
+  "@contact_accounting_department": {
+    "description": "Text instructing the user to contact the accounting department.",
+    "type": "text"
+  },
+  "product_name": "Product Name",
+  "@product_name": {
+    "description": "Label for entering or displaying the name of a product.",
+    "type": "text"
+  },
+  "order_record": "Order Record",
+  "@order_record": {
+    "description": "Label for displaying the order history or record.",
+    "type": "text"
+  },
+  "doYouWantToMakeRequest": "Do you want to make a service request?",
+  "@doYouWantToMakeRequest": {
+    "description": "Text asking the user if they want to make a service request.",
+    "type": "text"
+  },
+  "confirm_request": "Confirm Request",
+  "@confirm_request": {
+    "description": "Button text for confirming a service request.",
+    "type": "text"
+  },
+  "confirm_delivery_request": "Are you sure you want to request a delivery agent?",
+  "@confirm_delivery_request": {
+    "description": "Text asking for confirmation to request a delivery agent.",
+    "type": "text"
+  }
+}

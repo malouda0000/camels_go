@@ -1,0 +1,1252 @@
+{
+  "@@locale": "ar",
+  "specialLine": "سبيشل لاين",
+  "@specialLine": {
+    "description": "اسم العلامة التجارية أو الشركة.",
+    "type": "text"
+  },
+  "resetPassword": "إعادة تعيين كلمة المرور",
+  "@resetPassword": {
+    "description": "ملصق لإعادة تعيين كلمة مرور المستخدم.",
+    "type": "text"
+  },
+  "enterEmailToResetOne": "أدخل بريدك الإلكتروني لإعادة تعيين",
+  "@enterEmailToResetOne": {
+    "description": "توجيه لإدخال البريد الإلكتروني لإعادة تعيين كلمة المرور.",
+    "type": "text"
+  },
+  "enterEmailToResetTwo": "كلمة المرور الخاصة بك",
+  "@enterEmailToResetTwo": {
+    "description": "تكملة التوجيه لإدخال البريد الإلكتروني لإعادة تعيين كلمة المرور.",
+    "type": "text"
+  },
+  "email": "البريد الإلكتروني",
+  "@email": {
+    "description": "ملصق للبريد الإلكتروني.",
+    "type": "text"
+  },
+  "phoneNum": "رقم الهاتف",
+  "@phoneNum": {
+    "description": "ملصق لرقم الهاتف.",
+    "type": "text"
+  },
+  "sendCode": "إرسال الرمز",
+  "@sendCode": {
+    "description": "زر لإرسال رمز التحقق.",
+    "type": "text"
+  },
+  "backToSignIn": "العودة إلى تسجيل الدخول",
+  "@backToSignIn": {
+    "description": "رابط للعودة إلى صفحة تسجيل الدخول.",
+    "type": "text"
+  },
+  "otpCodeSended": "تم إرسال رمز المصادقة إلى",
+  "@otpCodeSended": {
+    "description": "رسالة تفيد بأنه تم إرسال رمز المصادقة إلى البريد الإلكتروني أو الهاتف.",
+    "type": "text"
+  },
+  "newPassword": "كلمة المرور الجديده",
+  "@newPassword": {
+    "description": "ملصق لكلمة المرور الجديدة.",
+    "type": "text"
+  },
+  "password": "كلمة المرور",
+  "@password": {
+    "description": "ملصق لكلمة المرور.",
+    "type": "text"
+  },
+  "confirmNewPassword": "تاكيد كلمة المرور",
+  "@confirmNewPassword": {
+    "description": "ملصق لتأكيد كلمة المرور الجديدة.",
+    "type": "text"
+  },
+  "confirm": "تاكيد",
+  "@confirm": {
+    "description": "زر لتأكيد الإدخالات.",
+    "type": "text"
+  },
+  "skip": "تخطي",
+  "@skip": {
+    "description": "زر لتخطي خطوة أو عملية.",
+    "type": "text"
+  },
+  "noDataLikeThis": "لا توجد بيانات",
+  "@noDataLikeThis": {
+    "description": "رسالة تظهر عندما لا توجد بيانات مطابقة.",
+    "type": "text"
+  },
+  "userAgrement": "أوافق على جميع الشروط وسياسة الخصوصية والرسوم",
+  "@userAgrement": {
+    "description": "عبارة تُظهر الموافقة على الشروط والسياسات.",
+    "type": "text"
+  },
+  "signUp": "أنشئ حسابك",
+  "@signUp": {
+    "description": "زر أو رابط لإنشاء حساب جديد.",
+    "type": "text"
+  },
+  "orByUsing": "أو بإستخدام",
+  "@orByUsing": {
+    "description": "فاصل بين طرق التسجيل المختلفة.",
+    "type": "text"
+  },
+  "youHaveAccount": "هل لديك حساب؟ تسجيل الدخول",
+  "@youHaveAccount": {
+    "description": "عبارة تسأل المستخدم إذا كان لديه حساب بالفعل وتوجهه لتسجيل الدخول.",
+    "type": "text"
+  },
+  "welcomeToSelectShop": "مرحباً بك في متجر سيليكت شوب",
+  "@welcomeToSelectShop": {
+    "description": "رسالة ترحيبية في متجر سيليكت شوب.",
+    "type": "text"
+  },
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "@forgotPassword": {
+    "description": "رابط لتوجيه المستخدم إلى صفحة استعادة كلمة المرور.",
+    "type": "text"
+  },
+  "signIn": "تسجيل دخول",
+  "@signIn": {
+    "description": "زر أو رابط لتسجيل الدخول.",
+    "type": "text"
+  },
+  "youDontHaveAccount": "ليس لديك حساب؟ إنشاء حساب",
+  "@youDontHaveAccount": {
+    "description": "عبارة تسأل المستخدم إذا كان ليس لديه حساب وتوجهه لإنشاء حساب جديد.",
+    "type": "text"
+  },
+  "userName": "الاسم",
+  "@userName": {
+    "description": "ملصق لاسم المستخدم.",
+    "type": "text"
+  },
+  "userEmail": "البريد الإلكتروني للمستخدم",
+  "@userEmail": {
+    "description": "البريد الإلكتروني للمستخدم، يمكن تغييره في إعدادات الحساب.",
+    "type": "text"
+  },
+  "homePage": "الرئيسية",
+  "@homePage": {
+    "description": "ملصق لصفحة الرئيسية.",
+    "type": "text"
+  },
+  "products": "المنتجات",
+  "@products": {
+    "description": "ملصق لقائمة المنتجات.",
+    "type": "text"
+  },
+  "tradeMark": "العلامات التجارية",
+  "@tradeMark": {
+    "description": "ملصق لقائمة العلامات التجارية.",
+    "type": "text"
+  },
+  "specialproducts": "منتجات مميزة",
+  "@specialproducts": {
+    "description": "ملصق للمنتجات المميزة.",
+    "type": "text"
+  },
+  "favourts": "المفضلة",
+  "@favourts": {
+    "description": "ملصق لقائمة المفضلة.",
+    "type": "text"
+  },
+  "mycart": "عربتي",
+  "@mycart": {
+    "description": "ملصق لعربة التسوق الخاصة بالمستخدم.",
+    "type": "text"
+  },
+  "orders": "الطلبات",
+  "@orders": {
+    "description": "ملصق لقائمة الطلبات.",
+    "type": "text"
+  },
+  "all_orders": "إجمالي الطلبات",
+  "@all_orders": {
+    "description": "",
+    "type": "text"
+  },
+  "personalPage": "الصفحة الشخصية",
+  "@personalPage": {
+    "description": "ملصق للصفحة الشخصية للمستخدم.",
+    "type": "text"
+  },
+  "show_money": "عرض الحسابات",
+  "@show_money": {
+    "description": "عرض الحسابات.",
+    "type": "text"
+  },
+  "bank_accounts": "الحسابات البنكية",
+  "@bank_accounts": {
+    "description": "لاستعراض الحسابات البنكية للمستخدم.",
+    "type": "text"
+  },
+  "the_bank": "البنك",
+  "@the_bank": {
+    "description": "لاستعراض اسم البنك",
+    "type": "text"
+  },
+  "suppourt": "الدعم",
+  "@suppourt": {
+    "description": "ملصق لقسم الدعم.",
+    "type": "text"
+  },
+  "contactUs": "تواصل معنا",
+  "@contactUs": {
+    "description": "رابط أو زر للتواصل مع دعم العملاء.",
+    "type": "text"
+  },
+  "signInSuccess": "تم تسجيل الدخول بنجاح",
+  "@signInSuccess": {
+    "description": "رسالة تأكيد نجاح تسجيل الدخول.",
+    "type": "text"
+  },
+  "signInWelcome": "أهلاً بعودتك",
+  "@signInWelcome": {
+    "description": "رسالة ترحيب عند العودة إلى التطبيق بعد تسجيل الدخول.",
+    "type": "text"
+  },
+  "signUpSuccess": "تم تسجيل الحساب بنجاح",
+  "@signUpSuccess": {
+    "description": "رسالة تأكيد نجاح إنشاء الحساب.",
+    "type": "text"
+  },
+  "signOut": "تسجيل خروج",
+  "@signOut": {
+    "description": "زر أو رابط لتسجيل الخروج من الحساب.",
+    "type": "text"
+  },
+  "show_all": "عرض الكل",
+  "@show_all": {
+    "description": "زر أو رابط لعرض جميع العناصر.",
+    "type": "text"
+  },
+  "search": "ابحث",
+  "@search": {
+    "description": "زر أو حقل بحث.",
+    "type": "text"
+  },
+  "theNew": "جديد",
+  "@theNew": {
+    "description": "ملصق للمنتجات الجديدة.",
+    "type": "text"
+  },
+  "thebestSeller": "الأفضل مبيعًا",
+  "@thebestSeller": {
+    "description": "ملصق للمنتجات الأكثر مبيعًا.",
+    "type": "text"
+  },
+  "theLakta": "لقطة",
+  "@theLakta": {
+    "description": "ملصق للمنتجات المميزة أو العروض الخاصة.",
+    "type": "text"
+  },
+  "theDiscaount": "خصم",
+  "@theDiscaount": {
+    "description": "ملصق للخصومات على المنتجات.",
+    "type": "text"
+  },
+  "most_wanted": "الأكثر طلبًا",
+  "@most_wanted": {
+    "description": "ملصق للمنتجات الأكثر طلبًا.",
+    "type": "text"
+  },
+  "limitedOffers": "العروض المحدودة",
+  "@limitedOffers": {
+    "description": "ملصق للعروض المحدودة.",
+    "type": "text"
+  },
+  "lowToHighPrice": "السعر من الأقل إلى الأعلى",
+  "@lowToHighPrice": {
+    "description": "تصنيف المنتجات من السعر الأقل إلى الأعلى.",
+    "type": "text"
+  },
+  "allCategoris": "كل التصنيفات",
+  "@allCategoris": {
+    "description": "ملصق لعرض جميع التصنيفات.",
+    "type": "text"
+  },
+  "category": "التصنيف",
+  "@category": {
+    "description": "ملصق للتصنيف.",
+    "type": "text"
+  },
+  "categorys": "التصنيفات",
+  "@categorys": {
+    "description": "ملصق للتصنيفات.",
+    "type": "text"
+  },
+  "description": "الوصف",
+  "@description": {
+    "description": "ملصق للوصف.",
+    "type": "text"
+  },
+  "theColor": "اللون",
+  "@theColor": {
+    "description": "ملصق للون.",
+    "type": "text"
+  },
+  "quantity": "الكمية",
+  "@quantity": {
+    "description": "ملصق للكمية.",
+    "type": "text"
+  },
+  "showAll": "عرض الكل",
+  "@showAll": {
+    "description": "زر أو رابط لعرض كل العناصر.",
+    "type": "text"
+  },
+  "searchYourProduct": "ابحث عن منتجك",
+  "@searchYourProduct": {
+    "description": "توجيه للبحث عن منتج معين.",
+    "type": "text"
+  },
+  "aed": "درهم",
+  "@aed": {
+    "description": "رمز العملة الدرهم.",
+    "type": "text"
+  },
+  "shopNow": "تسوق الآن",
+  "@shopNow": {
+    "description": "زر للتسوق الآن.",
+    "type": "text"
+  },
+  "shipmentAllUAE": "شحن لجميع أنحاء الإمارات",
+  "@shipmentAllUAE": {
+    "description": "ملصق يوضح أن الشحن متاح في جميع أنحاء الإمارات.",
+    "type": "text"
+  },
+  "fastShipment": "شحن سريع",
+  "@fastShipment": {
+    "description": "ملصق للشحن السريع.",
+    "type": "text"
+  },
+  "paymentOnRecive": "الدفع عند الاستلام",
+  "@paymentOnRecive": {
+    "description": "ملصق لوسيلة الدفع عند الاستلام.",
+    "type": "text"
+  },
+  "freeReturn": "إعادة مجانية",
+  "@freeReturn": {
+    "description": "ملصق للإعادة المجانية.",
+    "type": "text"
+  },
+  "earnFreePoints": "احصل على نقاط وخصومات",
+  "@earnFreePoints": {
+    "description": "عبارة تشجع على جمع النقاط والخصومات.",
+    "type": "text"
+  },
+  "brand": "البراند",
+  "@brand": {
+    "description": "ملصق للبراند.",
+    "type": "text"
+  },
+  "brandDetails": "تفاصيل البراند",
+  "@brandDetails": {
+    "description": "ملصق يعرض تفاصيل البراند.",
+    "type": "text"
+  },
+  "checkOut": "اطلب",
+  "@checkOut": {
+    "description": "زر للطلب أو الدفع.",
+    "type": "text"
+  },
+  "comments": "التعليقات",
+  "@comments": {
+    "description": "ملصق للتعليقات.",
+    "type": "text"
+  },
+  "deliverTo": "توصيل إلى",
+  "@deliverTo": {
+    "description": "ملصق لتحديد موقع التوصيل.",
+    "type": "text"
+  },
+  "location": "الموقع",
+  "@location": {
+    "description": "ملصق للموقع.",
+    "type": "text"
+  },
+  "cartDetails": "تفاصيل السلة",
+  "@cartDetails": {
+    "description": "ملصق لعرض تفاصيل السلة.",
+    "type": "text"
+  },
+  "paymentMethod": "وسيلة الدفع",
+  "@paymentMethod": {
+    "description": "ملصق لطريقة الدفع.",
+    "type": "text"
+  },
+  "doYouHaveCopons": "هل لديك كوبونات خصم؟",
+  "@doYouHaveCopons": {
+    "description": "سؤال حول وجود كوبونات خصم.",
+    "type": "text"
+  },
+  "enterCoponCode": "ادخل رمز الكوبون",
+  "@enterCoponCode": {
+    "description": "حقل لإدخال رمز الكوبون.",
+    "type": "text"
+  },
+  "price": "السعر",
+  "@price": {
+    "description": "ملصق للسعر.",
+    "type": "text"
+  },
+  "taxes": "الضريبة",
+  "@taxes": {
+    "description": "ملصق للضريبة.",
+    "type": "text"
+  },
+  "deliveryPrice": "رسوم التوصيل",
+  "@deliveryPrice": {
+    "description": "ملصق لرسوم التوصيل.",
+    "type": "text"
+  },
+  "totalPrice": "إجمالي السعر",
+  "@totalPrice": {
+    "description": "ملصق لإجمالي السعر.",
+    "type": "text"
+  },
+  "payWithCart": "ادفع بالبطاقة",
+  "@payWithCart": {
+    "description": "زر للدفع باستخدام البطاقة.",
+    "type": "text"
+  },
+  "error": "خطأ",
+  "@error": {
+    "description": "ملصق لعرض رسالة خطأ.",
+    "type": "text"
+  },
+  "checkNetwork": "الرجاء فحص اتصال الإنترنت لديك",
+  "@checkNetwork": {
+    "description": "رسالة توجيهية لفحص الاتصال بالإنترنت.",
+    "type": "text"
+  },
+  "editUser": "تعديل الملف الشخصي",
+  "@editUser": {
+    "description": "زر لتعديل معلومات الملف الشخصي.",
+    "type": "text"
+  },
+  "addLocation": "المواقع",
+  "@addLocation": {
+    "description": "ملصق لإضافة مواقع.",
+    "type": "text"
+  },
+  "changeLanguage": "تغيير اللغة",
+  "@changeLanguage": {
+    "description": "زر لتغيير اللغة.",
+    "type": "text"
+  },
+  "notificationSettings": "إعدادات الإشعارات",
+  "@notificationSettings": {
+    "description": "ملصق لإعدادات الإشعارات.",
+    "type": "text"
+  },
+  "helpCenter": "مركز المساعدة",
+  "@helpCenter": {
+    "description": "ملصق لمركز المساعدة.",
+    "type": "text"
+  },
+  "accountSettings": "إعدادات الحساب",
+  "@accountSettings": {
+    "description": "ملصق لإعدادات الحساب.",
+    "type": "text"
+  },
+  "addNewLocation": "إضافة موقع",
+  "@addNewLocation": {
+    "description": "زر لإضافة موقع جديد.",
+    "type": "text"
+  },
+  "theArea": "المنطقة",
+  "@theArea": {
+    "description": "ملصق للمنطقة.",
+    "type": "text"
+  },
+  "enterTheArea": "أدخل المنطقة",
+  "@enterTheArea": {
+    "description": "حقل لإدخال اسم المنطقة.",
+    "type": "text"
+  },
+  "choseEmairate": "اختر الإمارة",
+  "@choseEmairate": {
+    "description": "توجيه لاختيار الإمارة.",
+    "type": "text"
+  },
+  "building": "رقم المبنى",
+  "@building": {
+    "description": "ملصق لرقم المبنى.",
+    "type": "text"
+  },
+  "enterBuilding": "أدخل معلومات المبنى",
+  "@enterBuilding": {
+    "description": "حقل لإدخال معلومات المبنى.",
+    "type": "text"
+  },
+  "theStreet": "الشارع",
+  "@theStreet": {
+    "description": "ملصق للشارع.",
+    "type": "text"
+  },
+  "enterTheStreet": "أدخل الشارع",
+  "@enterTheStreet": {
+    "description": "حقل لإدخال اسم الشارع.",
+    "type": "text"
+  },
+  "postCode": "الرمز البريدي",
+  "@postCode": {
+    "description": "ملصق للرمز البريدي.",
+    "type": "text"
+  },
+  "enterPostCode": "أدخل الرمز البريدي",
+  "@enterPostCode": {
+    "description": "حقل لإدخال الرمز البريدي.",
+    "type": "text"
+  },
+  "apprtment": "الشقة",
+  "@apprtment": {
+    "description": "ملصق لرقم الشقة.",
+    "type": "text"
+  },
+  "enterApprtment": "أدخل رقم الشقة",
+  "@enterApprtment": {
+    "description": "حقل لإدخال رقم الشقة.",
+    "type": "text"
+  },
+  "saveLocationAs": "احفظ الموقع كـ",
+  "@saveLocationAs": {
+    "description": "ملصق لحفظ الموقع كـ.",
+    "type": "text"
+  },
+  "home": "المنزل",
+  "@home": {
+    "description": "تصنيف لحفظ الموقع كمنزل.",
+    "type": "text"
+  },
+  "work": "العمل",
+  "@work": {
+    "description": "تصنيف لحفظ الموقع كعمل.",
+    "type": "text"
+  },
+  "other": "أخرى",
+  "@other": {
+    "description": "تصنيف لحفظ الموقع كأخرى.",
+    "type": "text"
+  },
+  "saveLocation": "حفظ الموقع",
+  "@saveLocation": {
+    "description": "زر لحفظ الموقع.",
+    "type": "text"
+  },
+  "trackOrder": "تتبع الطلب",
+  "@trackOrder": {
+    "description": "زر لتتبع حالة الطلب.",
+    "type": "text"
+  },
+  "orderStage": "مرحلة الطلب: ",
+  "@orderStage": {
+    "description": "ملصق لعرض مرحلة الطلب الحالية.",
+    "type": "text"
+  },
+  "orderPlaced": "تم تقديم الطلب",
+  "@orderPlaced": {
+    "description": "رسالة تفيد بأنه تم تقديم الطلب.",
+    "type": "text"
+  },
+  "orderPlacedMessage": "تم تقديم طلبك",
+  "@orderPlacedMessage": {
+    "description": "رسالة تأكيد تقديم الطلب.",
+    "type": "text"
+  },
+  "processing": "جاري المعالجة",
+  "@processing": {
+    "description": "ملصق للمرحلة الحالية من الطلب.",
+    "type": "text"
+  },
+  "processingMessage": "طلبك ينتظر التأكيد",
+  "@processingMessage": {
+    "description": "رسالة توضح أن الطلب في مرحلة المعالجة.",
+    "type": "text"
+  },
+  "orderConfirmed": "تم تأكيد الطلب",
+  "@orderConfirmed": {
+    "description": "رسالة تفيد بتأكيد الطلب.",
+    "type": "text"
+  },
+  "orderConfirmedMessage": "تم تأكيد طلبك",
+  "@orderConfirmedMessage": {
+    "description": "رسالة تأكيد طلبك.",
+    "type": "text"
+  },
+  "shipped": "تم الشحن",
+  "@shipped": {
+    "description": "رسالة تفيد بشحن الطلب.",
+    "type": "text"
+  },
+  "shippedMessage": "تم شحن طلبك",
+  "@shippedMessage": {
+    "description": "رسالة تأكيد شحن الطلب.",
+    "type": "text"
+  },
+  "onTheWay": "في الطريق",
+  "@onTheWay": {
+    "description": "رسالة توضح أن الطلب في طريقه للوصول.",
+    "type": "text"
+  },
+  "onTheWayMessage": "مندوب التوصيل في الطريق لتسليم طلبك",
+  "@onTheWayMessage": {
+    "description": "رسالة توضح أن مندوب التوصيل في طريقه.",
+    "type": "text"
+  },
+  "delivered": "تم التسليم",
+  "@delivered": {
+    "description": "رسالة تفيد بتسليم الطلب.",
+    "type": "text"
+  },
+  "created_at": "تم الإنشاء في",
+  "@created_at": {
+    "description": "ملصق يعرض تاريخ ووقت إنشاء العنصر.",
+    "type": "text"
+  },
+  "name": "الاسم",
+  "@name": {
+    "description": "ملصق للاسم.",
+    "type": "text"
+  },
+  "stats": "إحصائيات",
+  "@stats": {
+    "description": "ملصق لعرض الإحصائيات.",
+    "type": "text"
+  },
+  "total": "المجموع",
+  "@total": {
+    "description": "ملصق لعرض الإجمالي.",
+    "type": "text"
+  },
+  "mobileNumber": "رقم الموبايل",
+  "@mobileNumber": {
+    "description": "ملصق لرقم الموبايل.",
+    "type": "text"
+  },
+  "fullName": "الاسم الكامل",
+  "@fullName": {
+    "description": "ملصق للاسم الكامل.",
+    "type": "text"
+  },
+  "address": "العنوان",
+  "@address": {
+    "description": "ملصق للعنوان.",
+    "type": "text"
+  },
+  "profilePicture": "صورة البروفايل",
+  "@profilePicture": {
+    "description": "ملصق لصورة الملف الشخصي.",
+    "type": "text"
+  },
+  "changeProfilePicture": "تغيير صورة البروفايل",
+  "@changeProfilePicture": {
+    "description": "زر لتغيير صورة البروفايل.",
+    "type": "text"
+  },
+  "unKnownError": "خطأ غير معروف",
+  "@unKnownError": {
+    "description": "رسالة خطأ عام عند حدوث مشكلة غير معروفة.",
+    "type": "text"
+  },
+  "integrated_delivery_and_technology_services": "خدمات توصيل وتكنولوجيا متكاملة - نحرص على تقديم تجربة متميزة وذات جودة عالية؛ من خلال فريق عمل يتمتع بالأمانة والمهنية والإحترام في التعامل مع مختلف شرائح العملاء بما يحقق سعادتهم ويفوق توقعاتهم.",
+  "@integrated_delivery_and_technology_services": {
+    "description": "العبارة الرئيسية التي تؤكد على التزام الشركة بالجودة ورضا العملاء.",
+    "type": "text"
+  },
+  "team_receives_parcels_with_care": "يتلقى فريق عملنا طرودكم باهتمام وفق المكان والوقت المفضل.",
+  "@team_receives_parcels_with_care": {
+    "description": "يصف الاهتمام بالتفاصيل وتفضيل العميل في استلام الطرود.",
+    "type": "text"
+  },
+  "parcel_delivery_within_24_hours": "توصيل طرودكم خلال 24 ساعة من استلامها والتواصل مع العميل والحرص على ضمان رضاه.",
+  "@parcel_delivery_within_24_hours": {
+    "description": "يبرز خدمة التوصيل السريعة والتواصل مع العميل.",
+    "type": "text"
+  },
+  "total_orders": "اجمالي الطلبات",
+  "@total_orders": {
+    "description": "تسمية لإجمالي عدد الطلبيات المستلمة.",
+    "type": "text"
+  },
+  "total_amounts": "إجمالي المبالغ",
+  "@total_amounts": {
+    "description": "تسمية لإجمالي المبالغ المتعلقة بالطلبيات.",
+    "type": "text"
+  },
+  "track_orders": "تتبع الطلبات",
+  "@track_orders": {
+    "description": "تسمية زر لتتبع الطلبات.",
+    "type": "text"
+  },
+  "total_stock": "إجمالي المخزون",
+  "@total_stock": {
+    "description": "تسمية لإجمالي المخزون المتاح.",
+    "type": "text"
+  },
+  "request_collection": "طلب مندوب استلام",
+  "@request_collection": {
+    "description": "تسمية زر لطلب استلام أو جمع البضائع.",
+    "type": "text"
+  },
+  "buy_services": "شراء خدمات",
+  "@buy_services": {
+    "description": "تسمية زر لشراء الخدمات التي تقدمها الشركة.",
+    "type": "text"
+  },
+  "chat": "الدردشة",
+  "@chat": {
+    "description": "تسمية لبدء محادثة أو دردشة.",
+    "type": "text"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "تسمية للوصول إلى قائمة الإعدادات.",
+    "type": "text"
+  },
+  "delayed_orders": "الطلبات المتأخرة",
+  "@delayed_orders": {
+    "description": "تسمية للطلبات التي تأخرت.",
+    "type": "text"
+  },
+  "transferred_orders": "الطلبات المحولة",
+  "@transferred_orders": {
+    "description": "تسمية للطلبات التي تم تحويلها.",
+    "type": "text"
+  },
+  "returned_orders": "الطلبات المرتجعة",
+  "@returned_orders": {
+    "description": "تسمية للطلبات التي تم إرجاعها.",
+    "type": "text"
+  },
+  "damaged_orders": "الطلبات التالفة",
+  "@damaged_orders": {
+    "description": "تسمية للطلبات التي تم تلفها.",
+    "type": "text"
+  },
+  "search_shipments": "ابحث عن شحناتك...",
+  "@search_shipments": {
+    "description": "نص بديل لشريط البحث للعثور على الشحنات.",
+    "type": "text"
+  },
+  "reference_number": "رقم المرجع",
+  "@reference_number": {
+    "description": "تسمية لرقم مرجع الشحنة.",
+    "type": "text"
+  },
+  "customer_number": "رقم العميل",
+  "@customer_number": {
+    "description": "تسمية لرقم العميل.",
+    "type": "text"
+  },
+  "emirate": "الإمارة",
+  "@emirate": {
+    "description": "تسمية للإمارة التي يقع فيها العميل.",
+    "type": "text"
+  },
+  "amount": "المبلغ",
+  "@amount": {
+    "description": "تسمية للمبلغ المرتبط بالشحنة.",
+    "type": "text"
+  },
+  "shipment_status": "حالة الشحنة",
+  "@shipment_status": {
+    "description": "تسمية للحالة الحالية للشحنة.",
+    "type": "text"
+  },
+  "in_delivery": "في التوصيل",
+  "@in_delivery": {
+    "description": "تسمية للشحنات التي يتم توصيلها حاليًا.",
+    "type": "text"
+  },
+  "filter_shipments": "تصفية الشحنات:",
+  "@filter_shipments": {
+    "description": "تسمية لقسم تصفية الشحنات.",
+    "type": "text"
+  },
+  "by_date": "حسب التاريخ:",
+  "@by_date": {
+    "description": "تسمية لتصفية الشحنات حسب التاريخ.",
+    "type": "text"
+  },
+  "from": "من:",
+  "@from": {
+    "description": "تسمية لتحديد تاريخ البدء في التصفية.",
+    "type": "text"
+  },
+  "to": "إلى:",
+  "@to": {
+    "description": "تسمية لتحديد تاريخ الانتهاء في التصفية.",
+    "type": "text"
+  },
+  "date_added": "تاريخ الإضافة:",
+  "@date_added": {
+    "description": "تسمية لتاريخ إضافة الشحنة.",
+    "type": "text"
+  },
+  "delivery_date": "تاريخ التسليم:",
+  "@delivery_date": {
+    "description": "تسمية لتاريخ تسليم الشحنة.",
+    "type": "text"
+  },
+  "company": "الشركة:",
+  "@company": {
+    "description": "تسمية للشركة المرتبطة بالشحنة.",
+    "type": "text"
+  },
+  "delivery_fees": "رسوم التوصيل:",
+  "@delivery_fees": {
+    "description": "تسمية للرسوم المرتبطة بتوصيل الشحنة.",
+    "type": "text"
+  },
+  "shipment_amount": "مبلغ الشحنة:",
+  "@shipment_amount": {
+    "description": "تسمية للمبلغ الإجمالي للشحنة.",
+    "type": "text"
+  },
+  "additional_fees": "رسوم إضافية:",
+  "@additional_fees": {
+    "description": "تسمية لأي رسوم إضافية مرتبطة بالشحنة.",
+    "type": "text"
+  },
+  "payment_method": "طريقة الدفع:",
+  "@payment_method": {
+    "description": "تسمية لطريقة الدفع المستخدمة للشحنة.",
+    "type": "text"
+  },
+  "transfer_to_merchant": "تحويل للموزع",
+  "@transfer_to_merchant": {
+    "description": "تسمية لزر تحويل المبالغ إلى الموزع.",
+    "type": "text"
+  },
+  "bearing_delivery_fees": "تحمل رسوم التوصيل:",
+  "@bearing_delivery_fees": {
+    "description": "تسمية لتحديد من يتحمل رسوم التوصيل.",
+    "type": "text"
+  },
+  "shipment_contents": "محتويات الشحنة:",
+  "@shipment_contents": {
+    "description": "تسمية لمحتويات الشحنة.",
+    "type": "text"
+  },
+  "customer_details": "تفاصيل العميل",
+  "@customer_details": {
+    "description": "تسمية لقسم يحتوي على تفاصيل العميل.",
+    "type": "text"
+  },
+  "customer_name": "اسم العميل:",
+  "@customer_name": {
+    "description": "تسمية لاسم العميل.",
+    "type": "text"
+  },
+  "note": "ملاحظة:",
+  "@note": {
+    "description": "تسمية لملاحظة مرتبطة بالشحنة.",
+    "type": "text"
+  },
+  "customer_address": "عنوان العميل:",
+  "@customer_address": {
+    "description": "تسمية لعنوان العميل.",
+    "type": "text"
+  },
+  "customer_city": "مدينة العميل:",
+  "@customer_city": {
+    "description": "تسمية لمدينة العميل.",
+    "type": "text"
+  },
+  "customer_emirate": "إمارة العميل:",
+  "@customer_emirate": {
+    "description": "تسمية للإمارة التي يقع فيها العميل.",
+    "type": "text"
+  },
+  "remaining_quantity": "الكمية المتبقية:",
+  "@remaining_quantity": {
+    "description": "تسمية للكمية المتبقية من العناصر في المخزون.",
+    "type": "text"
+  },
+  "add_new_product": "إضافة منتج جديد",
+  "@add_new_product": {
+    "description": "تسمية زر لإضافة منتج جديد إلى المخزون.",
+    "type": "text"
+  },
+  "product_sales_record": "سجل مبيعات المنتج",
+  "@product_sales_record": {
+    "description": "تسمية لمشاهدة سجل مبيعات المنتج.",
+    "type": "text"
+  },
+  "automated_chat": "الدردشة الآلية",
+  "@automated_chat": {
+    "description": "تسمية لبدء دردشة آلية.",
+    "type": "text"
+  },
+  "have_questions": "هل لديك أسئلة؟",
+  "@have_questions": {
+    "description": "سؤال لمعرفة إذا كان لدى المستخدم أي استفسارات.",
+    "type": "text"
+  },
+  "search_among_suggested_questions": "ابحث بين الأسئلة المقترحة...",
+  "@search_among_suggested_questions": {
+    "description": "نص بديل للبحث في الأسئلة المتكررة.",
+    "type": "text"
+  },
+  "frequently_asked_questions": "الأسئلة الشائعة:",
+  "@frequently_asked_questions": {
+    "description": "تسمية لقسم الأسئلة الشائعة.",
+    "type": "text"
+  },
+  "view_all": "عرض الكل",
+  "@view_all": {
+    "description": "تسمية زر لعرض جميع الأسئلة أو العناصر.",
+    "type": "text"
+  },
+  "how_long_does_delivery_take": "ما هو وقت التسليم في المتجر؟",
+  "@how_long_does_delivery_take": {
+    "description": "سؤال عن مدة التوصيل لبضائع المتجر.",
+    "type": "text"
+  },
+  "how_long_does_cooled_delivery_take": "ما هو وقت التسليم للبضائع المبردة؟",
+  "@how_long_does_cooled_delivery_take": {
+    "description": "سؤال عن مدة التوصيل للبضائع المبردة.",
+    "type": "text"
+  },
+  "topics": "المواضيع:",
+  "@topics": {
+    "description": "تسمية لمواضيع أو فئات مختلفة.",
+    "type": "text"
+  },
+  "storage_mechanism": "آلية التخزين",
+  "@storage_mechanism": {
+    "description": "تسمية للموضوع المتعلق بآليات التخزين.",
+    "type": "text"
+  },
+  "packaging_and_safety": "التعبئة والأمان",
+  "@packaging_and_safety": {
+    "description": "تسمية للموضوع المتعلق بالتعبئة والأمان.",
+    "type": "text"
+  },
+  "shipping_and_delivery": "الشحن والتوصيل",
+  "@shipping_and_delivery": {
+    "description": "تسمية للموضوع المتعلق بالشحن والتوصيل.",
+    "type": "text"
+  },
+  "returns_and_replacements": "الإرجاع والاستبدال",
+  "@returns_and_replacements": {
+    "description": "تسمية للموضوع المتعلق بالإرجاع والاستبدال.",
+    "type": "text"
+  },
+  "start_chat": "ابدأ الدردشة",
+  "@start_chat": {
+    "description": "تسمية زر لبدء جلسة دردشة.",
+    "type": "text"
+  },
+  "welcome_to_special_line": "مرحبًا بكم في خدمات توصيل الخط الخاص",
+  "@welcome_to_special_line": {
+    "description": "رسالة ترحيب للمستخدمين في التطبيق.",
+    "type": "text"
+  },
+  "here_to_assist": "أنا هنا لمساعدتك على الاستمتاع بتجربة توصيل وخدمة فريدة.",
+  "@here_to_assist": {
+    "description": "رسالة توضح الهدف من الدعم.",
+    "type": "text"
+  },
+  "daily_delivery_in_western_areas": "هل التوصيل اليومي متاح في المناطق الغربية؟",
+  "@daily_delivery_in_western_areas": {
+    "description": "سؤال عن توفر خدمة التوصيل اليومي في المناطق الغربية.",
+    "type": "text"
+  },
+  "delivery_price_in_ajman": "ما هو سعر التوصيل في عجمان؟",
+  "@delivery_price_in_ajman": {
+    "description": "سؤال عن تسعير خدمة التوصيل في عجمان.",
+    "type": "text"
+  },
+  "delivery_time_for_payment": "ما هي مدة تسليم الدفع؟",
+  "@delivery_time_for_payment": {
+    "description": "سؤال عن المدة الزمنية لتسليم الدفعات.",
+    "type": "text"
+  },
+  "weekdays_delivery_availability": "هل التوصيل متاح في جميع أيام الأسبوع؟",
+  "@weekdays_delivery_availability": {
+    "description": "سؤال عن توفر التوصيل على مدار الأسبوع.",
+    "type": "text"
+  },
+  "write_message": "اكتب رسالة...",
+  "@write_message": {
+    "description": "نص بديل لكتابة رسالة في دردشة.",
+    "type": "text"
+  },
+  "notifications": "الإشعارات",
+  "@notifications": {
+    "description": "تسمية لقسم الإشعارات.",
+    "type": "text"
+  },
+  "change_language": "تغيير اللغة",
+  "@change_language": {
+    "description": "خيار لتغيير لغة التطبيق.",
+    "type": "text"
+  },
+  "dark_mode": "الوضع الليلي",
+  "@dark_mode": {
+    "description": "خيار لتبديل الوضع الليلي.",
+    "type": "text"
+  },
+  "privacy_policy": "سياسة الخصوصية",
+  "@privacy_policy": {
+    "description": "خيار لعرض سياسة الخصوصية للتطبيق.",
+    "type": "text"
+  },
+  "complaints_and_suggestions": "الشكاوى والمقترحات",
+  "@complaints_and_suggestions": {
+    "description": "خيار لتقديم الشكاوى والمقترحات.",
+    "type": "text"
+  },
+  "share_app": "مشاركة التطبيق",
+  "@share_app": {
+    "description": "خيار لمشاركة التطبيق مع الآخرين.",
+    "type": "text"
+  },
+  "about_us": "معلومات عنا",
+  "@about_us": {
+    "description": "خيار لعرض معلومات عن الشركة.",
+    "type": "text"
+  },
+  "contact_us": "اتصل بنا",
+  "@contact_us": {
+    "description": "خيار للتواصل مع الشركة.",
+    "type": "text"
+  },
+  "sign_out": "تسجيل الخروج",
+  "@sign_out": {
+    "description": "تسجيل الخروج.",
+    "type": "text"
+  },
+  "are_you_sure": "هل انت متاكد",
+  "@are_you_sure": {
+    "description": "فقط للتاكيد.",
+    "type": "text"
+  },
+  "standard_storage_service": "خدمة التخزين العادية",
+  "@standard_storage_service": {
+    "description": "تسمية لخدمة التخزين العادية.",
+    "type": "text"
+  },
+  "cooled_storage_service": "خدمة التخزين المبردة",
+  "@cooled_storage_service": {
+    "description": "تسمية لخدمة التخزين المبردة.",
+    "type": "text"
+  },
+  "packaging_service": "خدمة التغليف",
+  "@packaging_service": {
+    "description": "تسمية لخدمة التغليف.",
+    "type": "text"
+  },
+  "product_photography_service": "خدمة تصوير المنتجات",
+  "@product_photography_service": {
+    "description": "تسمية لخدمة تصوير المنتجات.",
+    "type": "text"
+  },
+  "purchase_services": "شراء الخدمات",
+  "@purchase_services": {
+    "description": "تسمية زر لشراء الخدمات المقدمة.",
+    "type": "text"
+  },
+  "amounts_delivered_within_72_hours": " يتم تسليم المبلغ خلال 72 ساعة من تاريخ التوصيل\nلا تشمل اخر دفعات 48 ساعة",
+  "@amounts_delivered_within_72_hours": {
+    "description": "معلومات حول الإطار الزمني لتسليم المدفوعات.",
+    "type": "text"
+  },
+  "payment_record": "سجل الدفع",
+  "@payment_record": {
+    "description": "تسمية لعرض سجلات الدفع.",
+    "type": "text"
+  },
+  "payment_details": "تفاصيل الدفع",
+  "@payment_details": {
+    "description": "تسمية لعرض تفاصيل الدفع.",
+    "type": "text"
+  },
+  "amount_due_to_merchant": "المبلغ المستحق للتاجر:",
+  "@amount_due_to_merchant": {
+    "description": "تسمية تشير إلى المبلغ المستحق للتاجر.",
+    "type": "text"
+  },
+  "paid": "مدفوع",
+  "@paid": {
+    "description": "تسمية تشير إلى أن المبلغ قد تم دفعه.",
+    "type": "text"
+  },
+  "the_day": "اليوم",
+  "@the_day": {
+    "description": "نص لتوضيح التاريخ",
+    "type": "text"
+  },
+  "new_year_message": "تهانينا بمناسبة العام الجديد! نتمنى لكم عامًا مليئًا بالسعادة والنجاح والازدهار. نتمنى أن تكون أيامكم مشرقة وأحلامكم محققة.",
+  "@new_year_message": {
+    "description": "رسالة تهنئة بالعام الجديد باللغة العربية.",
+    "type": "text"
+  },
+  "personal_image": "الصورة الشخصية",
+  "@personal_image": {
+    "description": "تسمية للصورة الشخصية.",
+    "type": "text"
+  },
+  "full_arabic_name": "الاسم الكامل بالعربية",
+  "@full_arabic_name": {
+    "description": "تسمية للاسم الكامل باللغة العربية.",
+    "type": "text"
+  },
+  "full_english_name": "الاسم الكامل بالإنجليزية",
+  "@full_english_name": {
+    "description": "تسمية للاسم الكامل باللغة الإنجليزية.",
+    "type": "text"
+  },
+  "nationality": "الجنسية",
+  "@nationality": {
+    "description": "تسمية للجنسية.",
+    "type": "text"
+  },
+  "birth_date": "تاريخ الميلاد",
+  "@birth_date": {
+    "description": "تسمية لتاريخ الميلاد.",
+    "type": "text"
+  },
+  "gender": "الجنس",
+  "@gender": {
+    "description": "تسمية للجنس أو النوع.",
+    "type": "text"
+  },
+  "login_informations": "معلومات تسجيل الدخول",
+  "@login_informations": {
+    "description": "تسمية لمعلومات تسجيل الدخول.",
+    "type": "text"
+  },
+  "brand_profile": "بروفايل العلامة التجارية",
+  "@brand_profile": {
+    "description": "تسمية لبروفايل العلامة التجارية.",
+    "type": "text"
+  },
+  "brand_logo": "شعار العلامة التجارية",
+  "@brand_logo": {
+    "description": "تسمية لشعار العلامة التجارية.",
+    "type": "text"
+  },
+  "arabic_brand_name": "اسم العلامة التجارية بالعربية",
+  "@arabic_brand_name": {
+    "description": "تسمية لاسم العلامة التجارية باللغة العربية.",
+    "type": "text"
+  },
+  "english_brand_name": "اسم العلامة التجارية بالإنجليزية",
+  "@english_brand_name": {
+    "description": "تسمية لاسم العلامة التجارية باللغة الإنجليزية.",
+    "type": "text"
+  },
+  "brand_description": "وصف العلامة التجارية",
+  "@brand_description": {
+    "description": "تسمية لوصف العلامة التجارية.",
+    "type": "text"
+  },
+  "brand_location": "موقع العلامة التجارية",
+  "@brand_location": {
+    "description": "تسمية لموقع العلامة التجارية.",
+    "type": "text"
+  },
+  "current_password": "كلمة المرور الحالية",
+  "@current_password": {
+    "description": "تسمية لكلمة المرور الحالية.",
+    "type": "text"
+  },
+  "new_password": "كلمة المرور الجديدة",
+  "@new_password": {
+    "description": "تسمية لكلمة المرور الجديدة.",
+    "type": "text"
+  },
+  "retype_new_password": "أعد كتابة كلمة المرور الجديدة",
+  "@retype_new_password": {
+    "description": "تسمية لإعادة كتابة كلمة المرور الجديدة.",
+    "type": "text"
+  },
+  "male": "ذكر",
+  "@male": {
+    "description": "تسمية لجنس الذكر.",
+    "type": "text"
+  },
+  "female": "أنثى",
+  "@female": {
+    "description": "تسمية لجنس الأنثى.",
+    "type": "text"
+  },
+  "edit_profile_informations": "تعديل معلومات الملف الشخصي",
+  "@edit_profile_informations": {
+    "description": "تسمية لتعديل معلومات الملف الشخصي.",
+    "type": "text"
+  },
+  "edit_brand_informations": "تعديل معلومات البراند",
+  "@edit_brand_informations": {
+    "description": "تسمية لتعديل معلومات البراند.",
+    "type": "text"
+  },
+  "phone_number": "رقم الهاتف",
+  "@phone_number": {
+    "description": "تسمية لرقم الهاتف.",
+    "type": "text"
+  },
+  "mobile_number": "رقم الجوال",
+  "@mobile_number": {
+    "description": "تسمية لرقم الجوال.",
+    "type": "text"
+  },
+  "by_emirate": "حسب الإمارة",
+  "@by_emirate": {
+    "description": "تسمية لتصفية البيانات حسب الإمارة.",
+    "type": "text"
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "نص زر لحفظ التغييرات.",
+    "type": "text"
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "نص زر لإلغاء إجراء.",
+    "type": "text"
+  },
+  "total_amount": "إجمالي المبلغ",
+  "@total_amount": {
+    "description": "تسمية لعرض المبلغ الإجمالي المالي."
+  },
+  "date": "التاريخ",
+  "@date": {
+    "description": "تسمية لتحديد أو عرض التاريخ.",
+    "type": "text"
+  },
+  "contact_accounting_department": "يمكنك الاتصال إلى قسم المحاسبة.",
+  "@contact_accounting_department": {
+    "description": "نص يوجه المستخدم للاتصال بقسم المحاسبة.",
+    "type": "text"
+  },
+  "product_name": "اسم المنتج",
+  "@product_name": {
+    "description": "تسمية لإدخال أو عرض اسم المنتج.",
+    "type": "text"
+  },
+  "order_record": "سجل الطلبات",
+  "@order_record": {
+    "description": "تسمية لعرض تاريخ الطلبات أو السجل.",
+    "type": "text"
+  },
+  "doYouWantToMakeRequest": "هل تريد تقديم طلب لخدمة؟",
+  "@doYouWantToMakeRequest": {
+    "description": "نص يسأل المستخدم إذا كان يريد تقديم طلب خدمة.",
+    "type": "text"
+  },
+  "confirm_request": "تأكيد الطلب",
+  "@confirm_request": {
+    "description": "نص زر لتأكيد طلب الخدمة.",
+    "type": "text"
+  },
+  "confirm_delivery_request": "هل انت متأكد من انك تريد طلب مندوب توصيل؟",
+  "@confirm_delivery_request": {
+    "description": "نص يسأل عن تأكيد طلب مندوب التوصيل.",
+    "type": "text"
+  }
+}
